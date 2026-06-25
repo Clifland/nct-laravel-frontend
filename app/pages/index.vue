@@ -1,5 +1,5 @@
 <template>
-    <div>
-        Installed Nuxt with UI
-    </div>
+  <div>
+    <h1>Welcome to Playground of Nuxt-Crud-Table</h1>
+  </div>
 </template>
