@@ -5,6 +5,13 @@ This repository provides the frontend implementation for the Nuxt-Laravel integr
 > **Prerequisite Note:** This repository handles the UI layer only. To make this application functional, you **must** also set up and run the backend service. If you haven't done so already, please navigate to [nuxt-laravel-backend](https://www.google.com/search?q=https://github.com/your-username/nuxt-laravel-backend) to configure your server API before proceeding.
 
 ---
+## Quick Install
+```bash
+nuxi init -t gh:Clifland/nct-laravel-frontend <your-app-name>
+cd <your-app-name>
+bun dev
+```
+---
 
 ## Architecture Context
 
